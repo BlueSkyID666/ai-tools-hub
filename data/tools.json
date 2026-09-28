@@ -232,6 +232,69 @@
     "free_tier_verified_date": "2025-01-01"
   },
   {
+    "name": "Air",
+    "tagline": "gapped file encryption as self-decrypting HTML page",
+    "website": "https://cms-sfx-demo.apeleg.com/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "air",
+    "logo_url": "https://logo.clearbit.com/cms-sfx-demo.apeleg.com",
+    "free_alternatives": []
+  },
+  {
+    "name": "AI·rete·RAG",
+    "tagline": "a Rete rule engine decides, RAG explains why",
+    "website": "https://ai-rete-rag.com/",
+    "categories": [
+      "code",
+      "search"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "ai-rete-rag",
+    "logo_url": "https://logo.clearbit.com/ai-rete-rag.com",
+    "free_alternatives": []
+  },
+  {
     "name": "Apfel",
     "tagline": "The free AI already on your Mac",
     "website": "https://apfel.franzai.com",
@@ -364,6 +427,37 @@
     "free_alternatives": []
   },
   {
+    "name": "Avoid smooth spinners, use low",
+    "tagline": "FPS spinners",
+    "website": "https://nh2.me/low-fps-spinners/low-fps-spinners.html",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "avoid-smooth-spinners-use-low",
+    "logo_url": "https://logo.clearbit.com/nh2.me",
+    "free_alternatives": []
+  },
+  {
     "name": "Awesome Ai Scientist",
     "tagline": "🧪 Awesome list of AI Scientist papers, systems, benchmarks, datasets and open-so",
     "website": "https://omni-scientist.github.io/",
@@ -400,19 +494,61 @@
     "free_alternatives": []
   },
   {
+    "name": "Awesome Jev",
+    "tagline": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe",
+    "website": "https://madewithjev.com",
+    "categories": [
+      "llm",
+      "code",
+      "agents",
+      "search"
+    ],
+    "tags": [
+      "open-source",
+      "github",
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-research",
+      "awesome-list"
+    ],
+    "pricing": {
+      "has_free_tier": true,
+      "free_details": "Open source",
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": true,
+      "docs_url": "https://github.com/kraayenjon/awesome-jev/blob/main/README.md",
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "awesome-jev",
+    "logo_url": "https://logo.clearbit.com/madewithjev.com",
+    "free_alternatives": []
+  },
+  {
     "name": "Awesome Typesafe Jev",
     "tagline": "A curated list of official resources and community projects for TypeSafe, System",
     "website": "https://abdelstark.github.io/awesome-typesafe-jev/",
     "categories": [
       "llm",
-      "agents"
+      "agents",
+      "code"
     ],
     "tags": [
       "open-source",
       "github",
       "ai-agents",
       "awesome-list",
-      "jev"
+      "jev",
+      "agent-skills",
+      "awesome"
     ],
     "pricing": {
       "has_free_tier": true,
@@ -680,6 +816,40 @@
     "status": "active",
     "id": "cactus-needle-3",
     "logo_url": "https://logo.clearbit.com/cactuscompute.com",
+    "free_alternatives": []
+  },
+  {
+    "name": "Cadence",
+    "tagline": "Deep recursive settlement networks (DRSNs) built from cortical columns that cont",
+    "website": "https://floatingpragma.io/cadence/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "open-source",
+      "github",
+      "agi",
+      "asi",
+      "celebral-cortex"
+    ],
+    "pricing": {
+      "has_free_tier": true,
+      "free_details": "Open source",
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": true,
+      "docs_url": "https://github.com/muellerberndt/cadence/blob/main/README.md",
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "cadence",
+    "logo_url": "https://logo.clearbit.com/floatingpragma.io",
     "free_alternatives": []
   },
   {
@@ -1119,6 +1289,68 @@
     "free_alternatives": []
   },
   {
+    "name": "Doom or Bloom, map your AI worldview",
+    "tagline": "Doom or Bloom, map your AI worldview - AI tool",
+    "website": "https://www.doom-or-bloom.com",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "doom-or-bloom-map-your-ai-worldview",
+    "logo_url": "https://logo.clearbit.com/www.doom-or-bloom.com",
+    "free_alternatives": []
+  },
+  {
+    "name": "Drop",
+    "tagline": "A rootless Linux sandbox with gVisor support",
+    "website": "https://droprun.sh/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "drop",
+    "logo_url": "https://logo.clearbit.com/droprun.sh",
+    "free_alternatives": []
+  },
+  {
     "name": "Dull",
     "tagline": "Instagram Without Reels, YouTube Without Shorts (iOS)",
     "website": "https://getdull.app",
@@ -1209,6 +1441,37 @@
     "free_alternatives": [],
     "status": "active",
     "free_tier_verified_date": "2026-08-20"
+  },
+  {
+    "name": "Ekselio",
+    "tagline": "Loveable for finance workflows (local first)",
+    "website": "https://www.gptbeyond.com/try?home=1",
+    "categories": [
+      "agents"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "ekselio",
+    "logo_url": "https://logo.clearbit.com/www.gptbeyond.com",
+    "free_alternatives": []
   },
   {
     "id": "elevenlabs",
@@ -1882,6 +2145,99 @@
     "free_tier_verified_date": "2025-01-01"
   },
   {
+    "name": "Jev Plays Pokémon Red",
+    "tagline": "Jev Plays Pokémon Red - AI tool",
+    "website": "https://jev-pokemon.vercel.app/",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "jev-plays-pokmon-red",
+    "logo_url": "https://logo.clearbit.com/jev-pokemon.vercel.app",
+    "free_alternatives": []
+  },
+  {
+    "name": "JevBench, a reproducible benchmark for typed decision models",
+    "tagline": "JevBench, a reproducible benchmark for typed decision models - AI tool",
+    "website": "https://benchmarkheaven.com/jev-models",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "jevbench-a-reproducible-benchmark-for-typed-decision-models",
+    "logo_url": "https://logo.clearbit.com/benchmarkheaven.com",
+    "free_alternatives": []
+  },
+  {
+    "name": "Jevgpt",
+    "tagline": "reinventing the wheel with another wheel",
+    "website": "https://news.ycombinator.com/item?id=49823332",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "jevgpt",
+    "logo_url": "https://logo.clearbit.com/news.ycombinator.com",
+    "free_alternatives": []
+  },
+  {
     "name": "Kimi K3 In C",
     "tagline": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o",
     "website": "https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59",
@@ -1913,6 +2269,37 @@
     "status": "active",
     "id": "kimi-k3-in-c",
     "logo_url": "https://logo.clearbit.com/medium.com",
+    "free_alternatives": []
+  },
+  {
+    "name": "Koi.rest",
+    "tagline": "watch some fish and regain your balance",
+    "website": "https://koi.rest",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "koirest",
+    "logo_url": "https://logo.clearbit.com/koi.rest",
     "free_alternatives": []
   },
   {
@@ -3464,6 +3851,42 @@
     "free_alternatives": []
   },
   {
+    "name": "Simreal Mlbench",
+    "tagline": "[Public preview] Externally scored agentic ML research benchmark: 60 tasks, real",
+    "website": "https://simreal.co",
+    "categories": [
+      "llm",
+      "search",
+      "agents"
+    ],
+    "tags": [
+      "open-source",
+      "github",
+      "agentic",
+      "ai-evaluation",
+      "benchmark"
+    ],
+    "pricing": {
+      "has_free_tier": true,
+      "free_details": "Open source",
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": true,
+      "docs_url": "https://github.com/Simreal-AI/Simreal-MLBench/blob/main/README.md",
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "simreal-mlbench",
+    "logo_url": "https://logo.clearbit.com/simreal.co",
+    "free_alternatives": []
+  },
+  {
     "name": "Sokoban AI Solver",
     "tagline": "Sokoban AI Solver",
     "website": "https://mkornreich.me/projects/sokoban/",
@@ -3960,6 +4383,37 @@
     "free_alternatives": []
   },
   {
+    "name": "TinyAIArena watch AI agents battle it out",
+    "tagline": "TinyAIArena watch AI agents battle it out - AI tool",
+    "website": "https://tinyaiarena.com/",
+    "categories": [
+      "agents"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "tinyaiarena-watch-ai-agents-battle-it-out",
+    "logo_url": "https://logo.clearbit.com/tinyaiarena.com",
+    "free_alternatives": []
+  },
+  {
     "id": "together-ai",
     "name": "Together AI",
     "tagline": "Run 100+ open-source models via one unified API",
@@ -4127,6 +4581,37 @@
     "status": "active",
     "id": "unbagrnd",
     "logo_url": "https://logo.clearbit.com/zidniryi.space",
+    "free_alternatives": []
+  },
+  {
+    "name": "Vellum, the best diagram editor you'll ever use",
+    "tagline": "Vellum, the best diagram editor you'll ever use - AI tool",
+    "website": "https://vellum.blueprintr.io",
+    "categories": [
+      "llm"
+    ],
+    "tags": [
+      "hacker-news",
+      "new-launch"
+    ],
+    "pricing": {
+      "has_free_tier": false,
+      "free_details": null,
+      "paid_starts_at": null,
+      "pricing_url": null
+    },
+    "api": {
+      "available": false,
+      "docs_url": null,
+      "key_url": null,
+      "base_url": null,
+      "rate_limits": null,
+      "env_var_name": null,
+      "auth_method": null
+    },
+    "status": "active",
+    "id": "vellum-the-best-diagram-editor-youll-ever-use",
+    "logo_url": "https://logo.clearbit.com/vellum.blueprintr.io",
     "free_alternatives": []
   },
   {
